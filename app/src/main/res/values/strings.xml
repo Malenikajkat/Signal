@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Signal</string>
+    <string name="Запуск">Button</string>
+    <string name="Обучение">Button</string>
+    <string name="Настройки">Button</string>
+</resources>

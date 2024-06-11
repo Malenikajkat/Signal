@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sensors_button"
+        android:icon="@drawable/mobile_app_xszz01vp1zkc"
+        android:title="Запуск"/>
+    <item
+        android:id="@+id/training_button"
+        android:icon="@drawable/learning_f7za3q3oqnm3"
+        android:title="Обучение"
+        app:showAsAction="withText"/>
+
+    <item
+        android:id="@+id/settings_button"
+        android:icon="@drawable/setting_rkn4x0bgz41p"
+        android:title="Настройки"
+        app:showAsAction="withText"/>
+</menu>
